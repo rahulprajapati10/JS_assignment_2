@@ -1,6 +1,5 @@
 
-
-// Question 1.Find Grades
+// Question 1. Find Grades
 
 // Your school has the following grading system based upon the marks (M) obtained by a student:
 //  If M≤10, the grade will be E.
@@ -16,11 +15,12 @@
 // Return the grade obtained by your friend.
 // Constraints
 // 0≤M≤50
-// Example
+// Example:
 // Sample Input
 // 1
 // Sample Output
 // E
+
 
 
 let Marks = 35
