@@ -1,5 +1,5 @@
 
-// Question 4. Second Smallest
+// Question 4. Second Smallest 
 
 // You are given 3 distinct integers X, Y and Z and your task is to find and return the second smallest integer among the three provided 
 // integers.
