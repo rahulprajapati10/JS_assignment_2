@@ -1,7 +1,7 @@
 
 // Question 2. Get Value
 
-// You are provided with a table containing some characters and their corresponding values. Your task will be to find the value from the 
+// You are provided with a table containing some characters and their corresponding values. Your task will be to find the value from the  
 // table corresponding to an input character and return it.
 // | P or p - PrepBytes |
 // | Z or z - Zenith |
