@@ -7,7 +7,7 @@
 // Input Format
 // The input contains three numbers A, B and C which denotes the angles of a triangle.
 // Output Format
-// Return the required result.
+// Return of the required result.
 // Constraints
 // 0≤A, B, C≤180
 // Example
